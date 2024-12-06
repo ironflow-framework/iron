@@ -1,0 +1,22 @@
+{
+    "name": "tinyforge/iron",
+    "description": "ORM - TinyForge framework",
+    "type": "library",
+    "require": {
+        "fakerphp/faker": "^1.24",
+        "tinyforge/common": "^1.0",
+        "tinyforge/cli": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tinyforge\\Iron\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aure",
+            "email": "147180124+AureDulvresse@users.noreply.github.com"
+        }
+    ]
+}
