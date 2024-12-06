@@ -1,16 +1,16 @@
 {
-    "name": "tinyforge/iron",
-    "description": "ORM - TinyForge framework",
+    "name": "ironflow/iron",
+    "description": "ORM - IronFlow framework",
     "type": "library",
     "require": {
         "fakerphp/faker": "^1.24",
-        "tinyforge/common": "^1.0",
-        "tinyforge/cli": "^1.0"
+        "ironflow/common": "^1.0",
+        "ironflow/cli": "^1.0"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Tinyforge\\Iron\\": "src/"
+            "Forge\\Iron\\": "src/"
         }
     },
     "authors": [
